@@ -28,9 +28,9 @@ Este dataset é encontrado no link https://www.kaggle.com/datasets/imakash3011/c
 
 Neste repositório tem os seguintes arquivos:
 
-`marketing_campaign.csv` arquivo csv que contém a base de dados utilizada;
-
 `consumidores.ipynb` arquivo onde se encontra os códigos em python feitos para modificar e tratar os dados;
+
+`marketing_campaign.csv` arquivo csv que contém a base de dados utilizada;
 
 `perfil_consumidores.pbix` arquivo com o dashboard feito a partir dos dados.
 
